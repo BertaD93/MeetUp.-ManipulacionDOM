@@ -1,0 +1,20 @@
+#title {
+    color: rgb(112, 2, 57);
+    font-size: 80px;
+    padding-top: 100px;
+}
+.firstpart {
+    padding-top: 100px;
+    font-size: 30px;
+}
+
+.buttonstyle {
+    background-color: rgb(249, 202, 226) !important;
+    color: black !important;
+    border-color: rgb(249, 202, 226);
+}
+
+#movies {
+    font-size: 20px;
+
+}
